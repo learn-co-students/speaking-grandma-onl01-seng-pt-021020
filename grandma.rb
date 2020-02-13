@@ -1,6 +1,6 @@
-phrase = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
-  if 
+  if == phrase 
+    "I LOVE YOU TOO PUMPKIN!"
 end
 
 # Whatever you say to grandma, she should respond with
